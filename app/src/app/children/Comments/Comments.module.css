@@ -1,0 +1,16 @@
+.wrapper {
+    overflow-y: scroll;
+    max-height: 280px;
+    padding: 0 15px;
+    margin-bottom: 5px;
+
+}
+
+.ownerName {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+  .caption {
+    font-size: 12px;
+  }

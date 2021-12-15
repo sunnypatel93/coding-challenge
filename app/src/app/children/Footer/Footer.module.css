@@ -1,0 +1,24 @@
+.footerWrapper {
+    display: flex;
+    position: relative;
+    padding: 0 15px;
+    margin-right: 10px;
+}
+
+.iconWrapper {
+    position: absolute;
+    right: 0
+}
+
+.numberOfLikes {
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.textWrapper {
+    flex-grow: 1;
+}
+
+.datePosted {
+    font-size: 12px;   
+}

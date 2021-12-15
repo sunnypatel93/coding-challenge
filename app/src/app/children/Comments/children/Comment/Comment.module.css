@@ -1,0 +1,16 @@
+.wrapper {
+  font-size: 12px;
+  position: relative;
+  padding: 3px 0;
+  margin-right: 30px;
+}
+
+.owner {
+  font-weight: bold;
+}
+
+.like {
+  position: absolute;
+  right: -30px;
+
+}
